@@ -12,7 +12,7 @@ A music application inspired by <a href="https://global.novationmusic.com/launch
 <img src="/gif/musicpad.gif" width="200px">
 
 ### Usage
-Make a directory in MusicPad, put music files in the dir. and modify musicFilesDictionary of MusicFiles struct according to a comment in the file.
+Make a directory in MusicPad, put music files in the dir, and modify musicFilesDictionary of MusicFiles struct according to a comment in the file.
 
 ### Reference
 - [OpenAL on iOS](http://ohno789.blogspot.jp/2013/08/openal-on-ios.html)
